@@ -24,6 +24,9 @@ Optimized Routing and Delivery: Logistics are streamlined to ensure timely deliv
 
 Blender 3D Environment: The greenhouse and its components are realistically modeled in Blender, enabling visual representation of the pipeline's operations.
 Physics-Based Simulations: Interactions between plants, machinery, and the environment are simulated to assess performance and identify potential improvements.
+
+![Demo GIF](Environment/demo.gif)
+
 ## Progress so far
 
 Created the Simulation environment for the bot. There is a long way to go.
